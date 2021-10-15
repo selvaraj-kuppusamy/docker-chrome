@@ -71,16 +71,17 @@ where,
 - **-v** stands for bind mount to a volume i.e., attaching a volume
 
 
-<br>
-<p align="center"><b>. . .</b></p><br>
 
 
-![docker_gui-1]()
+![docker_gui-1](https://github.com/selvaraj-kuppusamy/google-chrome_docker/blob/main/assets/docker_gui-1.png)
 
 
-![docker_gui-2]()
+![docker_gui-2](https://github.com/selvaraj-kuppusamy/google-chrome_docker/blob/main/assets/docker_gui-2.png)
 
 
-![docker_gui-3]()
+![docker_gui-3](https://github.com/selvaraj-kuppusamy/google-chrome_docker/blob/main/assets/docker_gui-3.png)
+
+
+![docker_gui-4](https://github.com/selvaraj-kuppusamy/google-chrome_docker/blob/main/assets/docker_gui-4.png)
 
 
