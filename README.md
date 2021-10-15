@@ -1,7 +1,7 @@
 
 # Launching Google Chrome on Docker container
 
-![Docker-google-logo]()
+![Docker-google-logo](https://github.com/selvaraj-kuppusamy/google-chrome_docker/blob/main/assets/Docker-google-logo.jpeg)
 
 ## Objective
 Launch GUI applications(Google Chrome in this case) on top of Docker container.
